@@ -9,4 +9,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=shivambisen&theme=dark&hide_border=false)<br/>
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=shivambisen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shivambisen&theme=gruvbox_light&no-frame=true&no-bg=false&margin-w=4)
